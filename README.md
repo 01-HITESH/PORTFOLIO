@@ -1,4 +1,4 @@
-# Alex Morgan — Personal Portfolio
+# HITESH— Personal Portfolio
 
 A production-ready personal portfolio built with **Next.js 15**, **Tailwind CSS**, **Framer Motion**, and **Lucide React**.
 
